@@ -1,1 +1,3 @@
 # Predict crime rate for the state of North Carolina over the period 1981-1987 using Regression Model 
+
+We will employ regression model to investigate the relationship between crime rate in NC and the predictor variables (deterrent variables as well as variables measuring returns to legal opportunities) for 630 observations with 20 attributes from 90 counties in NC from 1981-1987to figure out which variables are important and how they influence the crime rate (which is defined as a measurement of the number of crimes divided by the county population in every single state). Understanding the causes correctly, we will find out optimal solutions to limit the crime rate generally.
